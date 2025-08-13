@@ -3,8 +3,11 @@ This project investigates the use of machine learning techniques to predict hear
 
 ## Overview
 Dataset: Heart Disease dataset from Kaggle (Cleveland, Hungary, Switzerland, Long Beach V)
+
 Observations: 303 patient records
+
 Attributes: 14 features including age, cholesterol, chest pain type, blood pressure, and more
+
 Target Variable: Presence or absence of heart disease
 
 ## Methodology
